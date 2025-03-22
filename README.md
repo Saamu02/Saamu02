@@ -12,13 +12,12 @@ Experienced and passionate Native Mobile Developer with a strong background in i
 ###   Tech Stack
 
 * **Languages:** Swift, Kotlin
-* **iOS Frameworks/Libraries:** UIKit, SwiftUI, Combine, CoreData, Core Animation, AVKit, MapKit, Core Location, Firebase
+* **iOS Frameworks/Libraries:** UIKit, SwiftUI, Combine, CoreData, Core Animation, AVKit, MapKit, Core Location, Firebase, CoreData, Realm
 * **Android Frameworks/Libraries:** Jetpack Compose, Room
-* **Databases:** CoreData, Realm
 * **APIs:** REST APIs, Firebase, CloudKit, QuickBooks, Zoho, Qoyod, Xero, Shopify, Google Maps, In-App Purchases
 * **Tools:** Xcode, Android Studio, Git, Jira, ClickUp, Microsoft Azure
 * **Architectures:** MVC, MVVM, VIPER
-* **Dependency Management:** Swift Package Manager, Cocoapods
+* **Dependency Management (iOS):** Swift Package Manager, Cocoapods
 
 ###   Experience
 
