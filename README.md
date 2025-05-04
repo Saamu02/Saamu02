@@ -1,15 +1,16 @@
-#   Ussama Irfan
+# Ussama Irfan
 
-##  Native Mobile Developer (iOS/Android)
+## Native Mobile Developer (iOS/Android)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saamu02)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github)](https://github.com/Saamu02?tab=repositories)
+[![Gist Badge](https://img.shields.io/badge/Gist-Profile-brightgreen?style=for-the-badge&logo=github-gist)](https://gist.github.com/Saamu02/)
 
-###   About Me
+### About Me
 
 Experienced and passionate Native Mobile Developer with a strong background in iOS/macOS development and a growing expertise in Android. I have 5+ years of experience in iOS development using UIKit, SwiftUI, and CoreData, and 1+ year of experience in Android native development with Jetpack Compose. I'm dedicated to crafting seamless and high-performance user experiences across mobile platforms.
 
-###   Tech Stack
+### Tech Stack
 
 * **Languages:** Swift, Kotlin
 * **iOS Frameworks/Libraries:** UIKit, SwiftUI, Combine, CoreData, Core Animation, AVKit, MapKit, Core Location, Firebase, CoreData, Realm
@@ -19,7 +20,7 @@ Experienced and passionate Native Mobile Developer with a strong background in i
 * **Architectures:** MVC, MVVM, VIPER
 * **Dependency Management (iOS):** Swift Package Manager, Cocoapods
 
-###   Experience
+### Experience
 
 **Metric** | Senior iOS/Android Developer | Aug 2024 - Present
 
@@ -47,7 +48,7 @@ Experienced and passionate Native Mobile Developer with a strong background in i
 * Provided training and guidance to junior developers.
 * Worked directly with clients to deliver custom solutions.
 
-###   Projects
+### Projects
 
 **Metric**
 
@@ -75,9 +76,10 @@ Experienced and passionate Native Mobile Developer with a strong background in i
 * **Technologies:** UIKit, CoreData, CoreAnimation, Firebase, Mapbox, Alamofire
 * Started as a junior developer and became the team lead.
 * Managed the team, worked directly with the client, created the UI, and handled CoreData and API integration.
-* [Appstore URL](https://apps.apple.com/us/developer/obvio-health-usa-inc/id1380794472?see-all-i-phonei-pad-apps)  (90% of the apps are published by me)
+* [Appstore URL](https://apps.apple.com/us/developer/obvio-health-usa-inc/id1380794472?see-all-i-phonei-pad-apps) (90% of the apps are published by me)
 
-###   Connect with Me
+### Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/saamu02)
 * [GitHub](https://github.com/Saamu02?tab=repositories)
+* [Gist](https://gist.github.com/Saamu02/)
