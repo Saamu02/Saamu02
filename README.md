@@ -8,7 +8,7 @@
 
 ### About Me
 
-Experienced and passionate Native Mobile Developer with a strong background in iOS/macOS development and a growing expertise in Android. I have 5+ years of experience in iOS development using UIKit, SwiftUI, and CoreData, and 1+ year of experience in Android native development with Jetpack Compose. I'm dedicated to crafting seamless and high-performance user experiences across mobile platforms.
+Experienced and passionate Native Mobile Developer with a strong background in iOS/macOS development and a growing expertise in Android. I have 6+ years of experience in iOS development using UIKit, SwiftUI, and CoreData, and 1+ year of experience in Android native development with Jetpack Compose. I'm dedicated to crafting seamless and high-performance user experiences across mobile platforms.
 
 ### Tech Stack
 
